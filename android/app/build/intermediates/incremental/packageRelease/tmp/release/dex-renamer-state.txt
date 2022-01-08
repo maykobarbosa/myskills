@@ -1,0 +1,4 @@
+#Fri Jan 07 23:48:38 BRT 2022
+base.0=/home/mayko/Área de Trabalho/ignite/react-native/myskills/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
